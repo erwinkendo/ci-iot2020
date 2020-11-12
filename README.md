@@ -48,7 +48,7 @@ Inserte el siguiente comando para instalar nodered:
 npm install -g --unsafe-perm node-red
 ```
 
-Si está usando **Linux**, tal vez necesite usar el comando sudo para realizar la instalación:
+Si está usando **Linux o MacOS**, tal vez necesite usar el comando sudo para realizar la instalación:
 
 ```console
 sudo npm install -g --unsafe-perm node-red

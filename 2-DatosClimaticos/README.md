@@ -1,10 +1,18 @@
 # Usando Node-Red para obtener datos climáticos y guardarlos datos en un archivo
 
+## Imagen del flow resultante
+
 ![nodo 2 en node-red](img/node2.png)
+
+## Configuración Adicional
 
 Poner su API key en el bloque de OpenWeather.
 
 ![nodo 2 en node-red](img/node2-2.png)
+
+## Codigo fuente
+
+Importar el siguiente código a su node-red.
 
 ```json
 [
